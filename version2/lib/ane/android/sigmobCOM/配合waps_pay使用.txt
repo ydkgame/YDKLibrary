@@ -1,0 +1,4 @@
+SigmobV20190826_one		独立使用
+
+
+SigmobV20190826			要有 有  support-v4 包
